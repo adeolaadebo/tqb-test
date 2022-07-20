@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/77757a11-4d14-4f92-b201-86c4cd14a993/microsoft.web/sites/subscriptions/77757a11-4d14-4f92-b201-86c4cd14a993/resourceGroups/teqbridgeltd-poc_group/providers/Microsoft.Web/sites/teqbridge-poc",
+    "appService.deploySubpath": "."
+}
